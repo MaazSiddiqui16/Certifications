@@ -13,6 +13,7 @@ Showcasing my certifications and program completions. All files below are includ
 
 ## Udemy
 - [Computer Vision Fundamentals](Udemy%20-%20Computer%20Vision%20Fundamentals.pdf)
+- [Artificial General Intelligence](Udemy%20-%20Artificial%20General%20Intelligence%20(AGI).pdf)
 
 ## Google Developer Student Clubs (GDSC)
 - [GDSC Certificate](GDSC%20certificate.pdf)
