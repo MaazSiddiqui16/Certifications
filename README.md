@@ -8,12 +8,13 @@ Showcasing my certifications and program completions. All files below are includ
 
 ## Coursera
 - [AI For Everyone](Coursera%20-%20AI%20For%20Everyone.pdf)
-- [Course 1](Coursera%20-%20Course%201.pdf)
+- [Supervised Machine Learning](Coursera%20-%20Supervised%20Machine%20Learning.pdf)
 - [Microsoft Excel](Coursera%20-%20Microsoft%20Excel.pdf)
 
 ## Udemy
 - [Computer Vision Fundamentals](Udemy%20-%20Computer%20Vision%20Fundamentals.pdf)
 - [Artificial General Intelligence](Udemy%20-%20Artificial%20General%20Intelligence%20(AGI).pdf)
+- [Python Programming](Udemy%20-%20Python%20Programming.pdf)
 
 ## Google Developer Student Clubs (GDSC)
 - [GDSC Certificate](GDSC%20certificate.pdf)
@@ -24,6 +25,9 @@ Showcasing my certifications and program completions. All files below are includ
 
 ## Bootcamps
 - [Web Dev Bootcamp Graduation](Web%20Dev%20Bootcamp%20Graduation.pdf)
+
+## Talento Academy
+- [Talento Academy Certificate](Talento%20Academy%20Certificate.pdf)
 
 ---
 
