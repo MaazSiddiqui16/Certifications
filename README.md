@@ -29,6 +29,9 @@ Showcasing my certifications and program completions. All files below are includ
 ## Talento Academy
 - [Talento Academy Certificate](Talento%20Academy%20Certificate.pdf)
 
+## DataCrumbs
+- [AI Dashboards](DataCrumbs%20-%20AI_Dashboards.pdf)
+
 ---
 
 If you have any questions about these credentials, feel free to reach out.
