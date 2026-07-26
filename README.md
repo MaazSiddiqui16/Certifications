@@ -27,6 +27,7 @@ Showcasing my certifications and program completions. All files below are includ
 ## Bootcamps
 - [Web Dev Bootcamp Graduation](Web%20Dev%20Bootcamp%20Graduation.pdf)
 - [GenAI Bootcamp - Certificate](GenAI%20Bootcamp%20-%20Certificate.pdf)
+- [Future Tech Bootcamp - Certificate](Future%20Tech%20Bootcamp%20-%20Certificate.pdf)
 
 ## Talento Academy
 - [Talento Academy Certificate](Talento%20Academy%20Certificate.pdf)
