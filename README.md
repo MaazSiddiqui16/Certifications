@@ -11,6 +11,7 @@ Showcasing my certifications and program completions. All files below are includ
 - [Supervised Machine Learning](Coursera%20-%20Supervised%20Machine%20Learning.pdf)
 - [Microsoft Excel](Coursera%20-%20Microsoft%20Excel.pdf)
 - [Coping with Anxiety and Fear](Coursera%20-%20Coping%20with%20Anxiety%20and%20Fear.pdf)
+- [React Basics](Coursera%20-%20React%20Basics.pdf)
 
 ## Udemy
 - [Computer Vision Fundamentals](Udemy%20-%20Computer%20Vision%20Fundamentals.pdf)
