@@ -36,6 +36,9 @@ Showcasing my certifications and program completions. All files below are includ
 ## DataCrumbs
 - [AI Dashboards](DataCrumbs%20-%20AI_Dashboards.pdf)
 
+## Appreciation
+- [Appreciation Certificate](Appreciation_Certificate.pdf)
+
 ---
 
 If you have any questions about these credentials, feel free to reach out.
